@@ -1,0 +1,1 @@
+Program pozwalający wyliczyć listę punktów ograniczających zbiór rozwiązań dopuszczalnych dla programu dualnego, punkt realizujący optimum programu pierwotnego oraz wartość minimalną dla warunków ograniczających i funkcji celu programu liniowiego (dążącej do minimum) podanych w pliku dane.txt
